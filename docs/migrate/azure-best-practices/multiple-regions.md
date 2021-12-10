@@ -21,7 +21,6 @@ Azure comprises many regions around the world. Each [Azure region](https://azure
   - [Azure China 21Vianet](https://azure.microsoft.com/global-infrastructure/geographies/)
   - [Azure Germany](https://azure.microsoft.com/global-infrastructure/geographies/): Azure Germany is being deprecated in favor of standard nonsovereign Azure regions in Germany.
   - [Azure US government](https://azure.microsoft.com/global-infrastructure/government/)
-  - Two regions in [Australia](https://azure.microsoft.com/global-infrastructure/geographies/) are managed by Microsoft but are provided for the Australian government and its customers and contractors. Therefore, these regions carry client constraints similar to the other sovereign clouds.
 
 ## Operate in multiple geographic regions
 
